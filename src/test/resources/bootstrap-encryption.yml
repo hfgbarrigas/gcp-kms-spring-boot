@@ -1,0 +1,6 @@
+gcp:
+  kms:
+    useMock: true
+    enabled: true
+    application-name: configserver
+    key-resource: 'projects/GCP_PROJECT_ID/locations/KEY_LOCATION_ID/keyRings/KEY_RING_ID/cryptoKeys/CRYPTO_KEY_ID'

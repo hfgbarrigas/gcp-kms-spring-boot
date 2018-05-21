@@ -1,0 +1,1 @@
+org.springframework.cloud.bootstrap.BootstrapConfiguration=io.hfbarrigas.spring.cloud.config.gcp.kms.MockAwsKmsConfig

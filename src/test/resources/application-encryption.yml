@@ -1,0 +1,1 @@
+secret: '{cipher}{key:projects/GCP_PROJECT_ID/locations/KEY_LOCATION_ID/keyRings/KEY_RING_ID/cryptoKeys/CRYPTO_KEY_ID}SGVsbG8gV29ybGQh'
